@@ -1,0 +1,25 @@
+{
+  "name": "ZEDX Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/zedx_logo.png",
+  "keywords": [
+    "zedx",
+    "wzedx"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped ZEDXION",
+      "address": "0x3F7BE9DB9d37bd89c3Fa722BB29bA17300C18fc8",
+      "symbol": "WZEDX",
+      "decimals": 18,
+      "chainId": 20831,
+      "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/zedx_logo.png"
+    }
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "name": "Ethereum Mainnet",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/eth.png",
+  "keywords": [
+    "eth"
+  ],
+  "tokens": [
+    {
+      "name": "Wrapped ETH",
+      "address": "0xC02aaA39b223FE8D0A0e5C4F27eAD9083C756Cc2",
+      "symbol": "WETH",
+      "decimals": 18,
+      "chainId": 1,
+      "logoURI": "https://etherscan.io/token/images/weth_28.png"
+    }
+  ]
+}
