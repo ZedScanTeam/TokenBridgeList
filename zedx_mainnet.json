@@ -14,9 +14,9 @@
   ],
   "tokens": [
     {
-      "name": "Wrapped ZEDXION",
-      "address": "0x3F7BE9DB9d37bd89c3Fa722BB29bA17300C18fc8",
-      "symbol": "WZEDX",
+      "name": "Tether USD.z from BNB",
+      "address": "0x42A74a2029fF7D95184e512a12B12079B8ed92Ba",
+      "symbol": "USDT.z",
       "decimals": 18,
       "chainId": 20831,
       "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/zedx_logo.png"
