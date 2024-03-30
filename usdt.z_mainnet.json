@@ -7,7 +7,7 @@
     "patch": 0
   },
   "tags": {},
-  "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/zedx_logo.png",
+  "logoURI": "https://github.com/Zedscan/TokenBridgeList/blob/main/usdt.z.png",
   "keywords": [
     "zedx",
     "wzedx"
@@ -19,7 +19,7 @@
       "symbol": "USDT.z",
       "decimals": 18,
       "chainId": 20831,
-      "logoURI": "https://raw.githubusercontent.com/NEWYORKBLOCKCHAIN/TokenBridgeList/main/zedx_logo.png"
+      "logoURI": "https://github.com/Zedscan/TokenBridgeList/blob/main/usdt.z.png"
     }
   ]
 }
