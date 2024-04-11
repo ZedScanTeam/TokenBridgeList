@@ -1,3 +1,4 @@
+[
 {
   "name": "usdt.z Mainnet",
   "timestamp": "2022-11-21T14:04:21.015Z",
@@ -8,12 +9,11 @@
   },
   "tags": {},
   "logoURI": "https://github.com/Zedscan/TokenBridgeList/blob/main/usdt.z.png",
-  "keywords": [
+  "keywords": 
     "zedx",
     "wzedx"
-  ],
-  "tokens": [
-    {
+  },
+      "tokens": 
       "name": "Tether USD.z from BNB",
       "address": "0x42A74a2029fF7D95184e512a12B12079B8ed92Ba",
       "symbol": "USDT.z",
@@ -22,4 +22,4 @@
       "logoURI": "https://github.com/Zedscan/TokenBridgeList/blob/main/usdt.z.png"
     }
   ]
-}
+
