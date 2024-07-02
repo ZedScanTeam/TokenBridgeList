@@ -1,0 +1,40 @@
+{
+  "name": "Trust Wallet: Smart Chain",
+  "timestamp": "2022-11-21T14:04:21.015Z",
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  },
+  "tags": {},
+  "logoURI": "https://trustwallet.com/assets/images/favicon.png",
+  "keywords": [
+  ],
+  "tokens": [
+    {
+        "name": "WZEDX",
+        "address": "0x567556A7493FB7a22d2fd158Dd4C766a98705f96",
+        "symbol": "WZEDX",
+        "decimals": 18,
+        "chainId": 721529,
+        "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenBridgeList/main/zedx_logo.png"
+    },
+    {
+        "name": "WERAM",
+        "address": "0x1336F973cBd16DB4368655514395D0818a949c2c",
+        "symbol": "WERAM",
+        "decimals": 18,
+        "chainId": 721529,
+        "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenBridgeList/main/eram_logo.png"
+    },
+    {
+        "name": "USDT.z",
+        "address": "0xd79D8Fa7B9E4eE8a4a2fFA1744C9f480096e9684",
+        "symbol": "USDT.z",
+        "decimals": 18,
+        "chainId": 721529,
+        "logoURI": "https://raw.githubusercontent.com/Zedscan/TokenBridgeList/main/usdt_logo.png"
+    }
+  ]
+}
+
